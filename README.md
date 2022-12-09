@@ -1,1 +1,1 @@
-# gsts.by
+# gsts
